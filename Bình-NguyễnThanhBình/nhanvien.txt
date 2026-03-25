@@ -1,0 +1,15 @@
+101;Nguyen Van An;Nam;4.50
+102;Tran Thi Bich;Nu;3.66
+103;Le Van Cuong;Nam;2.34
+104;Pham Minh Dang;Nam;5.12
+105;Hoang Thu Thao;Nu;4.20
+106;Doan Van Em;Nam;3.00
+107;Vu Thi Phuong;Nu;2.85
+108;Bui Quang Huy;Nam;6.40
+109;Ly My Linh;Nu;3.90
+110;Phan Thanh Nam;Nam;4.75
+111;Trinh Tuyet Nhi;Nu;2.50
+112;Ngo Gia Phuc;Nam;3.25
+113;Dang Hoang Quan;Nam;4.15
+114;Mai Phuong Thuy;Nu;5.50
+115;Cao Minh Triet;Nam;2.90
